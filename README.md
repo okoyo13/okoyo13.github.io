@@ -3,22 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Site</title>
+    <title> My Personal Site </title>
     <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
-    <h1>Welcome! I'm [Your Name]</h1>
+    <h1>Welcome! I'm okoyo13</h1>
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning [your field of study].
-           I'm interested in [your interests].</p>
+        <p>I'm a student currently learning Artificial Intelligence.
+           I'm interested in Machine and Deep learning.</p>
     </div>
     <div class="section">
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>[Add your own items]</li>
+            <li>Linux Commands and Python</li>
         </ul>
     </div>
     <div class="section">
