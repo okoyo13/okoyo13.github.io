@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Personal Site</title>
-  <link rel="stylesheet" href="style.css">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,9 +16,6 @@
         h1 {
             border-bottom: 2px solid #0366d6;
             padding-bottom: 10px;
-            font-style:oblique;
-            font-weight: bold;
-            font-size: 2.5em;
         }
         a {
             color: #0366d6;
@@ -30,26 +26,26 @@
     </style>
 </head>
 <body>
-    <h1>Welcome! I'm okoyo13</h1>
+    <h1>Welcome! I'm [Your Name]</h1>
 
     <div class="section">
         <h2>About Me</h2>
-        <p>I'm a student currently learning Artificial Intelligence.
-           I'm interested in Machine learning and Deep learning.</p>
+        <p>I'm a student currently learning [your field of study].
+           I'm interested in [your interests].</p>
     </div>
 
     <div class="section">
         <h2>What I'm Learning</h2>
         <ul>
             <li>Git and GitHub</li>
-            <li>linux and Python</li>
+            <li>[Add your own items]</li>
         </ul>
     </div>
 
     <div class="section">
         <h2>Links</h2>
         <ul>
-            <li><a href="https://github.com/okoyo13">My GitHub Profile</a></li>
+            <li><a href="https://github.com/your-username">My GitHub Profile</a></li>
         </ul>
     </div>
 </body>
